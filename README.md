@@ -6,9 +6,13 @@
 
 ## 💫 About Me  
 📈 **Data Storyteller** with expertise in transforming raw numbers into actionable insights  
+
 🔧 **Toolkit**: Python, SQL, Power BI, Tableau, Excel  
+
 🎯 **Specialization**: Retail Analytics & Sales Optimization  
+
 💡 Passionate about solving business problems through data-driven decision making  
+
 🌱 Currently exploring: Advanced Machine Learning Techniques  
 ---
 
