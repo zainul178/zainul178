@@ -1,5 +1,5 @@
-# 💻 Zainul Alam | Data Analyst Portfolio
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainul-alam-1b3268350)
+# 💻 Zainul Alam | Data Analyst 
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/zainul-alam-1b3268350 )
 [![GitHub](https://img.shields.io/badge/-Repositories-181717?style=flat&logo=github&logoColor=white)](https://github.com/zainul178)
 [![Email](https://img.shields.io/badge/-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zainulalam788@gmail.com)
 ---
