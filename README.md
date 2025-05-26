@@ -13,7 +13,7 @@
 
 💡 Passionate about solving business problems through data-driven decision making  
 
-🌱 Currently exploring: Advanced Machine Learning Techniques  
+
 ---
 
 ## 🛠️ Technical Arsenal
